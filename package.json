@@ -50,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@types/enzyme": "^3.10.14"
+    "@types/enzyme": "^3.10.14",
+    "html-react-parser": "^4.2.2"
   }
 }
