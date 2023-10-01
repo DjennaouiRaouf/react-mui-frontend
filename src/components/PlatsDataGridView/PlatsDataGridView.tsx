@@ -43,6 +43,7 @@ const PlatsDataGridView: React.FC<any> = () => {
                         },
                     )
                 }
+
                 else{
                     col.push( {
                         field: item,
